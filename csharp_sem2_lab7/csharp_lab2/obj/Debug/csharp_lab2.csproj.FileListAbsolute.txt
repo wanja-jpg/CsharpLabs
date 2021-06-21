@@ -1,0 +1,7 @@
+C:\Users\Иван\source\repos\csharp_lab2\csharp_lab2\bin\Debug\csharp_lab2.exe.config
+C:\Users\Иван\source\repos\csharp_lab2\csharp_lab2\bin\Debug\csharp_lab2.exe
+C:\Users\Иван\source\repos\csharp_lab2\csharp_lab2\bin\Debug\csharp_lab2.pdb
+C:\Users\Иван\source\repos\csharp_lab2\csharp_lab2\obj\Debug\csharp_lab2.csprojAssemblyReference.cache
+C:\Users\Иван\source\repos\csharp_lab2\csharp_lab2\obj\Debug\csharp_lab2.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\csharp_lab2\csharp_lab2\obj\Debug\csharp_lab2.exe
+C:\Users\Иван\source\repos\csharp_lab2\csharp_lab2\obj\Debug\csharp_lab2.pdb
