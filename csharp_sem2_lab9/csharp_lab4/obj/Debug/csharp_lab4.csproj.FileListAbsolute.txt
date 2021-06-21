@@ -1,7 +1,0 @@
-C:\Users\Иван\source\repos\csharp_lab4\csharp_lab4\bin\Debug\csharp_lab4.exe.config
-C:\Users\Иван\source\repos\csharp_lab4\csharp_lab4\bin\Debug\csharp_lab4.exe
-C:\Users\Иван\source\repos\csharp_lab4\csharp_lab4\bin\Debug\csharp_lab4.pdb
-C:\Users\Иван\source\repos\csharp_lab4\csharp_lab4\obj\Debug\csharp_lab4.csprojAssemblyReference.cache
-C:\Users\Иван\source\repos\csharp_lab4\csharp_lab4\obj\Debug\csharp_lab4.csproj.CoreCompileInputs.cache
-C:\Users\Иван\source\repos\csharp_lab4\csharp_lab4\obj\Debug\csharp_lab4.exe
-C:\Users\Иван\source\repos\csharp_lab4\csharp_lab4\obj\Debug\csharp_lab4.pdb
